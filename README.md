@@ -12,7 +12,7 @@ ReturnsOS is a decision intelligence layer and reverse logistics platform for el
 ```
 
 ## 🎥 Demos & Links
-- **[ReturnsOS Pitch & Video Script](docs/returnsos_content.html)**
+- **[ReturnsOS Pitch & Video Script](https://drive.google.com/drive/folders/13IqGq8uEH69FhdzqTuSTT3jwMzfIUVO3?usp=sharing)**
 - **[System Architecture](ARCHITECTURE.md)**
 
 ## 🏗️ Architecture Sketch
