@@ -16,10 +16,7 @@ ReturnsOS is a decision intelligence layer and reverse logistics platform for el
 - **[System Architecture](ARCHITECTURE.md)**
 
 ## 🏗️ Architecture Sketch
-```text
-[ Operator Console ]  →  [ FastAPI Gateway ]  →  [ Rules Engine ]
-[ Supervisor Mobile]  ←  [ Event Bus (SSE) ]  ←  [ AI Agents ]
-```
+**[View Diagram Here](https://drive.google.com/file/d/11csRM0Iad64NcnoEZO7HBK7ZBpmxTp4m/view)**
 
 ## 🛠️ Tech Stack
 * **Frontend:** React, Vite
